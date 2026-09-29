@@ -31,3 +31,7 @@ Setup and usage instructions for individual tools will be added as they are deve
 ## Notes
 
 Media files themselves (video, audio, images) are not stored in this repository — see `.gitignore`. Keep the archive's source files in their own storage and point the tools at them.
+
+## Test
+
+Test commit from Claude on 2026-09-29 — safe to remove.
